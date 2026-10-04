@@ -113,6 +113,6 @@
     "typescript": "^5.9.3"
   },
   "resolutions": {
-    "js-yaml": "^4.2.0"
+    "js-yaml": "^4.3.2"
   }
 }
